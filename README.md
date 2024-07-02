@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/arees-agobian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arees-agobian" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/arees-agobian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="arees-agobian" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/25921349/arees-agobian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="arees-agobian" height="30" width="40" /></a>
 <a href="https://kaggle.com/aagobian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="aagobian" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/aagobian15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aagobian15" height="30" width="40" /></a>
 </p>
