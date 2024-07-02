@@ -1,5 +1,5 @@
-<h1 align="center">Hey! My name's Arees!</h1>
-<h3 align="center">I'm a student developer studying CS at George Mason University.</h3>
+<h1 align="center">Hey! My name's Arees.</h1>
+<h3 align="center">I'm a student developer studying CS at George Mason University</h3>
 
 - 🏗️ I’m currently working on [a text editor made from scratch.](https://github.com/aagobian/Nocturne-Text-Editor)
 
