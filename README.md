@@ -3,7 +3,7 @@
 
 - 🏗️ I’m currently working on [a text editor made from scratch.](https://github.com/aagobian/Nocturne-Text-Editor)
 
-- 📚 I’m currently learning **Electron.**
+- 📚 I’m currently learning **Electron and PyTorch.**
 
 - 🤝 I’m looking to collaborate on **machine learning projects!**
 
