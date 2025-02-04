@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking to collaborate on **machine learning projects!**
 
-- ⚡ Fun fact: **I play guitar 🎸**
+- ⚡ Fun fact: **I was on the news once!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
