@@ -3,8 +3,6 @@
 
 - 🏗️ I’m currently working on a ***secret*** project!
 
-- 📚 I’m currently learning **JUCE.**
-
 - 🤝 I’m looking to collaborate on **machine learning projects!**
 
 - ⚡ Fun fact: **I was on the news once!**
