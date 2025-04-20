@@ -5,7 +5,7 @@
 
 - 🤝 I’m looking to collaborate on **machine learning projects!**
 
-- ⚡ Fun fact: **I was on the news once!**
+- ⚡ Fun fact: **My favorite genre of music is metal! 🤘**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
